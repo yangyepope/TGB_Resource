@@ -1,0 +1,23 @@
+[23-05-11 12:30:37 - INFO] - TelegramBot - Starting TelegramBot....
+[23-05-11 12:30:37 - INFO] - TelegramBot - setting up event loop....
+[23-05-11 12:30:37 - INFO] - TelegramBot - initiating the client....
+[23-05-11 12:30:37 - INFO] - TelegramBot - checking MySQL URI....
+[23-05-11 12:30:37 - INFO] - TelegramBot.database.mysqldb - MySQL connection succeeded!
+[23-05-11 12:30:37 - INFO] - __main__ - client successfully initiated....
+[23-05-11 12:30:50 - INFO] - TelegramBot.plugins.users.add_bill - add_bill: 0.13605117797851562
+[23-05-11 12:30:54 - INFO] - TelegramBot.plugins.users.add_bill - add_bill: 0.056055545806884766
+[23-05-11 12:31:47 - INFO] - TelegramBot.database.database - Error in saving user：(1062, "Duplicate entry '5355607184' for key 'users.PRIMARY'")
+[23-05-11 12:31:57 - INFO] - TelegramBot.database.database - Error in saving user：(1062, "Duplicate entry '5355607184' for key 'users.PRIMARY'")
+[23-05-11 12:31:59 - INFO] - TelegramBot.database.database - Error in saving user：(1062, "Duplicate entry '5355607184' for key 'users.PRIMARY'")
+[23-05-11 12:32:04 - INFO] - TelegramBot.database.database - Error in saving user：(1062, "Duplicate entry '5355607184' for key 'users.PRIMARY'")
+[23-05-11 12:32:16 - INFO] - TelegramBot.database.database - Error in saving user：(1062, "Duplicate entry '5355607184' for key 'users.PRIMARY'")
+[23-05-11 12:32:35 - INFO] - TelegramBot.database.database - Error in saving user：(1062, "Duplicate entry '5355607184' for key 'users.PRIMARY'")
+[23-05-11 12:32:38 - INFO] - TelegramBot.database.database - Error in saving user：(1062, "Duplicate entry '5355607184' for key 'users.PRIMARY'")
+[23-05-11 12:32:41 - INFO] - TelegramBot.database.database - Error in saving user：(1062, "Duplicate entry '5355607184' for key 'users.PRIMARY'")
+[23-05-11 12:32:48 - INFO] - TelegramBot.database.database - Error in saving user：(1062, "Duplicate entry '5355607184' for key 'users.PRIMARY'")
+[23-05-11 12:33:26 - INFO] - TelegramBot.database.database - Error in saving user：(1062, "Duplicate entry '5348262286' for key 'users.PRIMARY'")
+[23-05-11 12:38:42 - INFO] - TelegramBot.plugins.users.add_bill - add_bill: 0.051691532135009766
+[23-05-11 12:40:25 - INFO] - TelegramBot.plugins.users.add_bill - add_bill: 0.05191636085510254
+[23-05-11 12:41:41 - INFO] - TelegramBot.plugins.users.add_bill - add_bill: 0.052654266357421875
+[23-05-11 12:45:27 - INFO] - TelegramBot.plugins.users.add_bill - add_bill: 0.07169008255004883
+[23-05-11 12:47:40 - INFO] - TelegramBot.plugins.users.add_bill - add_bill: 0.05730795860290527

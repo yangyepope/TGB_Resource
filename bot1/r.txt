@@ -1,0 +1,5 @@
+python-telegram-bot==13.13
+telegram
+aiohttp
+asyncio
+pymysql
